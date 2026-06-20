@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "294345683955",
+    "firebase_url": "https://barfit-e25ef-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "barfit-e25ef",
+    "storage_bucket": "barfit-e25ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294345683955:android:f80e089c5a125c8857d886",
+        "android_client_info": {
+          "package_name": "com.example.barsafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsKXT7fW6fhkvq8wzFunlr6U5a1bTRCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
